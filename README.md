@@ -3,7 +3,11 @@
 It's for playing Slideshare Karaoke with a group. There's three rotating decks you can choose each round. When a deck is
 finished, it's moved to the played directory.
 
-# Usage
+You'll need `pdftk` and `evince` installed.
+
+# Game Setup
+
+Get a big bunch of PDF slide decks and put them in the `slides/unplayed` directory. 
 
 To start the game:
 
@@ -12,8 +16,6 @@ To start the game:
 To put all of the already played slides back in rotation:
 
 > ./reset
-
-Also, you'll need `pdftk` and `evince` installed.
 
 # Notes
 
