@@ -1,0 +1,14 @@
+{
+    "name": "tuck/karaoke",
+    "type": "project",
+    "require": {
+        "league/climate": "^3.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ross Tuck",
+            "email": "me@rosstuck.com"
+        }
+    ]
+}
